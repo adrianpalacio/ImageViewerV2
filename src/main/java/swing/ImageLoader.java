@@ -1,2 +1,5 @@
-package swing;public interface ImageLoader {
+package software.ulpgc.imageviewer;
+
+public interface ImageLoader {
+    Image load();
 }
